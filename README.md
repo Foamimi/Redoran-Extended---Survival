@@ -30,23 +30,23 @@ Screenshots are available at the bottom of this page to compare as you go.
 
    - Install it under the name **[NoDelete] [04.003] SkyUI Item Card Fixes for Campfire**
    
-31.) Download [Campfire - Bits and Pieces Hoarding Fix](X).
+31.) Download [Campfire - Bits and Pieces Hoarding Fix](https://www.nexusmods.com/skyrimspecialedition/mods/69705?tab=files&file_id=292810&nmm=1).
 
    - Install it under the name **[NoDelete] [04.005] Campfire - Bits and Pieces Hoarding Fix**
 
-31.) Download [Campfire - Hotkey Modded Menu Fix](X).
+31.) Download [Campfire - Hotkey Modded Menu Fix](https://www.nexusmods.com/skyrimspecialedition/mods/73343?tab=files&file_id=307622&nmm=1).
 
    - Install it under the name **[NoDelete] [04.006] Campfire - Hotkey Modded Menu Fix**
    
-31.) Download [Eremite Camping](X).
+31.) Download [Eremite Camping and Combat v2.24](https://www.dracotorre.com/mods/eremitecamping/). Scroll down to the section under "download" and select the "main file - Eremite Camping and Combat v2.24 (2022-07-12) - EremiteCamping.7z (6.6 MB)" option. Place the newly downloaded file into the area where you designated Redoran's Download folder to go. Once placed, you should see it on the right side of MO2 in the downloads tab with a red triangle next to the name. If it isn't, sort by Filetime (may need to do it twice) and it will flip the downloads to most recent. If it still isn't showing, tick the Hidden Files box at the bottom of the Downloads tab. Once you see the file, double-click it, then proceed to installation.
 
    - Install it under the name **[NoDelete] [04.007] Eremite Camping**
 
-31.) Download [Campfire - Fixation](X).
+31.) Download [Campfire - Fixation](https://www.nexusmods.com/skyrimspecialedition/mods/56595?tab=files&file_id=248879&nmm=1).
 
    - Install it under the name **[NoDelete] [04.008] Campfire - Fixation**
    
-31.) Download [Campfire - Stamina Penalty for Backpacks](X).
+31.) Download [Campfire - Stamina Penalty for Backpacks](https://github.com/Foamimi/Redoran-Extended---Survival/blob/main/Campfire%20-%20Stamina%20Penalty%20for%20Backpacks.7z) ("View raw" button).
 
    - Install it under the name **[NoDelete] [04.009] Campfire - Stamina Penalty for Backpacks**
 
