@@ -18,125 +18,125 @@ Screenshots are available at the bottom of this page to compare as you go.
 
 ## Campfire
 
-31.) Download [Campfire - Complete Camping System (Supports Skyrim VR)](https://www.nexusmods.com/skyrimspecialedition/mods/667?tab=files&file_id=65049&nmm=1). -write instructions to hide papyrus file so papyrusUTIL wins-
+1.) Download [Campfire - Complete Camping System (Supports Skyrim VR)](https://www.nexusmods.com/skyrimspecialedition/mods/667?tab=files&file_id=65049&nmm=1). -write instructions to hide papyrus file so papyrusUTIL wins-
 
    - Install it under the name **[NoDelete] [04.001] Campfire**
    
-31.) Download [Campfire - Unofficial SSE Update](https://www.nexusmods.com/skyrimspecialedition/mods/17925?tab=files&file_id=62581&nmm=1).
+2.) Download [Campfire - Unofficial SSE Update](https://www.nexusmods.com/skyrimspecialedition/mods/17925?tab=files&file_id=62581&nmm=1).
 
    - Install it under the name **[NoDelete] [04.002] Campfire - Unofficial Update**
 
-31.) Download [SkyUI Item Card Fixes for Campfire](https://www.nexusmods.com/skyrimspecialedition/mods/29116?tab=files&file_id=108005&nmm=1). In the FOMOD...
+3.) Download [SkyUI Item Card Fixes for Campfire](https://www.nexusmods.com/skyrimspecialedition/mods/29116?tab=files&file_id=108005&nmm=1). In the FOMOD...
 
    - Install it under the name **[NoDelete] [04.003] SkyUI Item Card Fixes for Campfire**
    
-31.) Download [Campfire - Bits and Pieces Hoarding Fix](https://www.nexusmods.com/skyrimspecialedition/mods/69705?tab=files&file_id=292810&nmm=1).
+4.) Download [Campfire - Bits and Pieces Hoarding Fix](https://www.nexusmods.com/skyrimspecialedition/mods/69705?tab=files&file_id=292810&nmm=1).
 
-   - Install it under the name **[NoDelete] [04.005] Campfire - Bits and Pieces Hoarding Fix**
+   - Install it under the name **[NoDelete] [04.004] Campfire - Bits and Pieces Hoarding Fix**
 
-31.) Download [Campfire - Hotkey Modded Menu Fix](https://www.nexusmods.com/skyrimspecialedition/mods/73343?tab=files&file_id=307622&nmm=1).
+5.) Download [Campfire - Hotkey Modded Menu Fix](https://www.nexusmods.com/skyrimspecialedition/mods/73343?tab=files&file_id=307622&nmm=1).
 
-   - Install it under the name **[NoDelete] [04.006] Campfire - Hotkey Modded Menu Fix**
+   - Install it under the name **[NoDelete] [04.005] Campfire - Hotkey Modded Menu Fix**
    
-31.) Download [Eremite Camping and Combat v2.24](https://www.dracotorre.com/mods/eremitecamping/). Scroll down to the section under "download" and select the "main file - Eremite Camping and Combat v2.24 (2022-07-12) - EremiteCamping.7z (6.6 MB)" option. Place the newly downloaded file into the area where you designated Redoran's Download folder to go. Once placed, you should see it on the right side of MO2 in the downloads tab with a red triangle next to the name. If it isn't, sort by Filetime (may need to do it twice) and it will flip the downloads to most recent. If it still isn't showing, tick the Hidden Files box at the bottom of the Downloads tab. Once you see the file, double-click it, then proceed to installation.
+6.) Download [Eremite Camping and Combat v2.24](https://www.dracotorre.com/mods/eremitecamping/). Scroll down to the section under "download" and select the "main file - Eremite Camping and Combat v2.24 (2022-07-12) - EremiteCamping.7z (6.6 MB)" option. Place the newly downloaded file into the area where you designated Redoran's Download folder to go. Once placed, you should see it on the right side of MO2 in the downloads tab with a red triangle next to the name. If it isn't, sort by Filetime (may need to do it twice) and it will flip the downloads to most recent. If it still isn't showing, tick the Hidden Files box at the bottom of the Downloads tab. Once you see the file, double-click it, then proceed to installation.
 
-   - Install it under the name **[NoDelete] [04.007] Eremite Camping**
+   - Install it under the name **[NoDelete] [04.006] Eremite Camping**
 
-31.) Download [Campfire - Fixation](https://www.nexusmods.com/skyrimspecialedition/mods/56595?tab=files&file_id=248879&nmm=1).
+7.) Download [Campfire - Fixation](https://www.nexusmods.com/skyrimspecialedition/mods/56595?tab=files&file_id=248879&nmm=1).
 
-   - Install it under the name **[NoDelete] [04.008] Campfire - Fixation**
+   - Install it under the name **[NoDelete] [04.007] Campfire - Fixation**
    
-31.) Download [Campfire - Stamina Penalty for Backpacks](https://github.com/Foamimi/Redoran-Extended---Survival/blob/main/Campfire%20-%20Stamina%20Penalty%20for%20Backpacks.7z) ("View raw" button).
+8.) Download [Campfire - Stamina Penalty for Backpacks](https://github.com/Foamimi/Redoran-Extended---Survival/blob/main/Campfire%20-%20Stamina%20Penalty%20for%20Backpacks.7z) ("View raw" button).
 
-   - Install it under the name **[NoDelete] [04.009] Campfire - Stamina Penalty for Backpacks**
+   - Install it under the name **[NoDelete] [04.008] Campfire - Stamina Penalty for Backpacks**
 
-31.) Download [ElSopa - Campfire HD SE](https://www.nexusmods.com/skyrimspecialedition/mods/24511?tab=files&file_id=86443&nmm=1). In the FOMOD...
+9.) Download [ElSopa - Campfire HD SE](https://www.nexusmods.com/skyrimspecialedition/mods/24511?tab=files&file_id=86443&nmm=1). In the FOMOD...
 
-   - Install it under the name **[NoDelete] [04.010] ElSopa - Campfire HD**
+   - Install it under the name **[NoDelete] [04.009] ElSopa - Campfire HD**
    
-31.) Download [Realistic HD Woodcutter's Axe Remastered - Campfire Patch](https://www.nexusmods.com/skyrimspecialedition/mods/7849?tab=files&file_id=78733&nmm=1).
+10.) Download [Realistic HD Woodcutter's Axe Remastered - Campfire Patch](https://www.nexusmods.com/skyrimspecialedition/mods/7849?tab=files&file_id=78733&nmm=1).
 
-   - Install it under the name **[NoDelete] [04.011] Realistic HD Woodcutter's Axe Remastered - Campfire Patch**
+   - Install it under the name **[NoDelete] [04.010] Realistic HD Woodcutter's Axe Remastered - Campfire Patch**
 
-31.) Download [Campfire - Backpack HD](https://www.nexusmods.com/skyrimspecialedition/mods/34516?tab=files&file_id=133862&nmm=1). In the FOMOD...
+11.) Download [Campfire - Backpack HD](https://www.nexusmods.com/skyrimspecialedition/mods/34516?tab=files&file_id=133862&nmm=1). In the FOMOD...
 
-   - Install it under the name **[NoDelete] [04.012] Campfire - Backpack HD**
+   - Install it under the name **[NoDelete] [04.011] Campfire - Backpack HD**
    
-31.) Download [Campfire - Torch Fix](https://www.nexusmods.com/skyrimspecialedition/mods/35563?tab=files&file_id=137876&nmm=1).
+12.) Download [Campfire - Torch Fix](https://www.nexusmods.com/skyrimspecialedition/mods/35563?tab=files&file_id=137876&nmm=1).
 
-   - Install it under the name **[NoDelete] [04.013] Campfire - Torch Fix**
+   - Install it under the name **[NoDelete] [04.012] Campfire - Torch Fix**
 
-31.) Download [CC Fishing Campfire Patch](https://www.nexusmods.com/skyrimspecialedition/mods/63418?tab=files&file_id=302078&nmm=1).
+13.) Download [CC Fishing Campfire Patch](https://www.nexusmods.com/skyrimspecialedition/mods/63418?tab=files&file_id=302078&nmm=1).
 
-   - Install it under the name **[NoDelete] [04.014] CC Fishing Campfire Patch**
+   - Install it under the name **[NoDelete] [04.013] CC Fishing Campfire Patch**
    
-31.) Download [Campfire - Pilgrim Patch](https://www.nexusmods.com/skyrimspecialedition/mods/57888?tab=files&file_id=238857&nmm=1).
+14.) Download [Campfire - Pilgrim Patch](https://www.nexusmods.com/skyrimspecialedition/mods/57888?tab=files&file_id=238857&nmm=1).
 
-   - Install it under the name **[NoDelete] [04.015] Campfire - Pilgrim Patch**
+   - Install it under the name **[NoDelete] [04.014] Campfire - Pilgrim Patch**
 
-31.) Download [Lanterns Of Skyrim II - Campfire Addon](https://www.nexusmods.com/skyrimspecialedition/mods/30817?tab=files&file_id=275523&nmm=1). You may have downloaded this already...
+15.) Download [Lanterns Of Skyrim II - Campfire Addon](https://www.nexusmods.com/skyrimspecialedition/mods/30817?tab=files&file_id=275523&nmm=1). You may have downloaded this already...
 
-   - Install it under the name **[NoDelete] [04.016] Lanterns Of Skyrim II - Campfire Addon**
+   - Install it under the name **[NoDelete] [04.015] Lanterns Of Skyrim II - Campfire Addon**
    
-31.) Download [Campfire Chanterelle Tree Patch](https://www.nexusmods.com/skyrimspecialedition/mods/51194?tab=files&file_id=209106&nmm=1).
+16.) Download [Campfire Chanterelle Tree Patch](https://www.nexusmods.com/skyrimspecialedition/mods/51194?tab=files&file_id=209106&nmm=1).
 
-   - Install it under the name **[NoDelete] [04.017] Campfire Chanterelle Tree Patch**
-
-## OPTIONAL (FEEL FREE TO SKIP!)
-
-31.) Download [Campfire Spooning](https://www.nexusmods.com/skyrimspecialedition/mods/21776?tab=files&file_id=75101&nmm=1).
-
-   - Install it under the name **[NoDelete] [04.018] Campfire Spooning**
-
-31.) Download [Campfire - Immersive Snuggling](https://www.nexusmods.com/skyrimspecialedition/mods/26975?tab=files&file_id=97433&nmm=1).
-
-   - Install it under the name **[NoDelete] [04.019] Campfire - Immersive Snuggling**
+   - Install it under the name **[NoDelete] [04.016] Campfire Chanterelle Tree Patch**
 
 ## SunHelm
 
-31.) Download [SunHelm Survival](https://www.nexusmods.com/skyrimspecialedition/mods/39414?tab=files&file_id=311142&nmm=1). In the FOMOD...
+17.) Download [SunHelm Survival](https://www.nexusmods.com/skyrimspecialedition/mods/39414?tab=files&file_id=311142&nmm=1). In the FOMOD...
 
-   - Install it under the name **[NoDelete] [04.020] SunHelm Survival**
+   - Install it under the name **[NoDelete] [04.017] SunHelm Survival**
    
-31.) Download [SunHelm Survival - Settings Loader](https://www.nexusmods.com/skyrimspecialedition/mods/78535?tab=files&file_id=330873&nmm=1).
+18.) Download [SunHelm Survival - Settings Loader](https://www.nexusmods.com/skyrimspecialedition/mods/78535?tab=files&file_id=330873&nmm=1).
 
-   - Install it under the name **[NoDelete] [04.021] SunHelm Survival - Settings Loader**
+   - Install it under the name **[NoDelete] [04.018] SunHelm Survival - Settings Loader**
 
-31.) Download [SunHelm Survival - Compatibility Patches](https://www.nexusmods.com/skyrimspecialedition/mods/41335?tab=files&file_id=168682&nmm=1). In the FOMOD...
+19.) Download [SunHelm Survival - Compatibility Patches](https://www.nexusmods.com/skyrimspecialedition/mods/41335?tab=files&file_id=168682&nmm=1). In the FOMOD...
 
-   - Install it under the name **[NoDelete] [04.022] SunHelm Survival - Compatibility Patches**
+   - Install it under the name **[NoDelete] [04.019] SunHelm Survival - Compatibility Patches**
    
-31.) Download [Water-Borne Diseases for SunHelm](https://www.nexusmods.com/skyrimspecialedition/mods/62572?tab=files&file_id=259778&nmm=1).
+20.) Download [Water-Borne Diseases for SunHelm](https://www.nexusmods.com/skyrimspecialedition/mods/62572?tab=files&file_id=259778&nmm=1).
 
-   - Install it under the name **[NoDelete] [04.023] Water-Borne Diseases for SunHelm**
+   - Install it under the name **[NoDelete] [04.020] Water-Borne Diseases for SunHelm**
 
-31.) Download [Water-Borne Diseases for SunHelm - Campfire Patch](https://www.nexusmods.com/skyrimspecialedition/mods/69235?tab=files&file_id=289380&nmm=1).
+21.) Download [Water-Borne Diseases for SunHelm - Campfire Patch](https://www.nexusmods.com/skyrimspecialedition/mods/69235?tab=files&file_id=289380&nmm=1).
 
-   - Install it under the name **[NoDelete] [04.024] Water-Borne Diseases for SunHelm - Campfire Patch**
+   - Install it under the name **[NoDelete] [04.021] Water-Borne Diseases for SunHelm - Campfire Patch**
    
-31.) Download [SunHelm - Simple Weather Icons](https://www.nexusmods.com/skyrimspecialedition/mods/75863?tab=files&file_id=318218&nmm=1).
+22.) Download [SunHelm - Simple Weather Icons](https://www.nexusmods.com/skyrimspecialedition/mods/75863?tab=files&file_id=318218&nmm=1).
 
-   - Install it under the name **[NoDelete] [04.025] SunHelm - Simple Weather Icons**
+   - Install it under the name **[NoDelete] [04.022] SunHelm - Simple Weather Icons**
 
-31.) Download [SunHelm - Magical Heat Sources](https://www.nexusmods.com/skyrimspecialedition/mods/67864?tab=files&file_id=282870&nmm=1).
+23.) Download [SunHelm - Magical Heat Sources](https://www.nexusmods.com/skyrimspecialedition/mods/67864?tab=files&file_id=282870&nmm=1).
 
-   - Install it under the name **[NoDelete] [04.026] SunHelm - Magical Heat Sources**
+   - Install it under the name **[NoDelete] [04.023] SunHelm - Magical Heat Sources**
    
-31.) Download [More Wells for SunHelm - Vanilla](https://www.nexusmods.com/skyrimspecialedition/mods/62447?tab=files&file_id=258959&nmm=1).
+24.) Download [More Wells for SunHelm - Vanilla](https://www.nexusmods.com/skyrimspecialedition/mods/62447?tab=files&file_id=258959&nmm=1).
 
-   - Install it under the name **[NoDelete] [04.027] More Wells for SunHelm - Vanilla**
+   - Install it under the name **[NoDelete] [04.024] More Wells for SunHelm - Vanilla**
 
-31.) Download [SunHelm - Creation Club Farming Patch](https://www.nexusmods.com/skyrimspecialedition/mods/62480?tab=files&file_id=259142&nmm=1).
+25.) Download [SunHelm - Creation Club Farming Patch](https://www.nexusmods.com/skyrimspecialedition/mods/62480?tab=files&file_id=259142&nmm=1).
 
-   - Install it under the name **[NoDelete] [04.028] SunHelm - Creation Club Farming Patch**
+   - Install it under the name **[NoDelete] [04.025] SunHelm - Creation Club Farming Patch**
    
-31.) Download [Gray Cowl of Nocturnal - SunHelm Patch](https://www.nexusmods.com/skyrimspecialedition/mods/65623?tab=files&file_id=300063&nmm=1).
+26.) Download [Gray Cowl of Nocturnal - SunHelm Patch](https://www.nexusmods.com/skyrimspecialedition/mods/65623?tab=files&file_id=300063&nmm=1).
 
-   - Install it under the name **[NoDelete] [04.029] Gray Cowl of Nocturnal - SunHelm Patch**
+   - Install it under the name **[NoDelete] [04.026] Gray Cowl of Nocturnal - SunHelm Patch**
 
-31.) Download [Midwood Isle - SunHelm Bucket - Patch](https://www.nexusmods.com/skyrimspecialedition/mods/64322?tab=files&file_id=267231&nmm=1).
+27.) Download [Midwood Isle - SunHelm Bucket - Patch](https://www.nexusmods.com/skyrimspecialedition/mods/64322?tab=files&file_id=267231&nmm=1).
 
-   - Install it under the name **[NoDelete] [04.030] Midwood Isle - SunHelm Bucket - Patch**
+   - Install it under the name **[NoDelete] [04.027] Midwood Isle - SunHelm Bucket - Patch**
+
+## OPTIONAL (FEEL FREE TO SKIP!)
+
+28.) Download [Campfire Spooning](https://www.nexusmods.com/skyrimspecialedition/mods/21776?tab=files&file_id=75101&nmm=1).
+
+   - Install it under the name **[NoDelete] [04.028] Campfire Spooning**
+
+29.) Download [Campfire - Immersive Snuggling](https://www.nexusmods.com/skyrimspecialedition/mods/26975?tab=files&file_id=97433&nmm=1).
+
+   - Install it under the name **[NoDelete] [04.029] Campfire - Immersive Snuggling**
 
 # Last Steps
 
