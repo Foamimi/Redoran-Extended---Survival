@@ -18,15 +18,15 @@ Screenshots are available at the bottom of this page to compare as you go.
 
 ## Campfire
 
-31.) Download [Campfire](X).
+31.) Download [Campfire - Complete Camping System (Supports Skyrim VR)](https://www.nexusmods.com/skyrimspecialedition/mods/667?tab=files&file_id=65049&nmm=1). -write instructions to hide papyrus file so papyrusUTIL wins-
 
    - Install it under the name **[NoDelete] [04.001] Campfire**
    
-31.) Download [Campfire - Unofficial Update](X).
+31.) Download [Campfire - Unofficial SSE Update](https://www.nexusmods.com/skyrimspecialedition/mods/17925?tab=files&file_id=62581&nmm=1).
 
    - Install it under the name **[NoDelete] [04.002] Campfire - Unofficial Update**
 
-31.) Download [SkyUI Item Card Fixes for Campfire](X).
+31.) Download [SkyUI Item Card Fixes for Campfire](https://www.nexusmods.com/skyrimspecialedition/mods/29116?tab=files&file_id=108005&nmm=1). In the FOMOD...
 
    - Install it under the name **[NoDelete] [04.003] SkyUI Item Card Fixes for Campfire**
    
