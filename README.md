@@ -50,45 +50,45 @@ Screenshots are available at the bottom of this page to compare as you go.
 
    - Install it under the name **[NoDelete] [04.009] Campfire - Stamina Penalty for Backpacks**
 
-31.) Download [ElSopa - Campfire HD](X).
+31.) Download [ElSopa - Campfire HD SE](https://www.nexusmods.com/skyrimspecialedition/mods/24511?tab=files&file_id=86443&nmm=1). In the FOMOD...
 
    - Install it under the name **[NoDelete] [04.010] ElSopa - Campfire HD**
    
-31.) Download [Realistic HD Woodcutter's Axe Remastered - Campfire Patch](X).
+31.) Download [Realistic HD Woodcutter's Axe Remastered - Campfire Patch](https://www.nexusmods.com/skyrimspecialedition/mods/7849?tab=files&file_id=78733&nmm=1).
 
    - Install it under the name **[NoDelete] [04.011] Realistic HD Woodcutter's Axe Remastered - Campfire Patch**
 
-31.) Download [Campfire - Backpack HD](X).
+31.) Download [Campfire - Backpack HD](https://www.nexusmods.com/skyrimspecialedition/mods/34516?tab=files&file_id=133862&nmm=1). In the FOMOD...
 
    - Install it under the name **[NoDelete] [04.012] Campfire - Backpack HD**
    
-31.) Download [Campfire - Torch Fix](X).
+31.) Download [Campfire - Torch Fix](https://www.nexusmods.com/skyrimspecialedition/mods/35563?tab=files&file_id=137876&nmm=1).
 
    - Install it under the name **[NoDelete] [04.013] Campfire - Torch Fix**
 
-31.) Download [CC Fishing Campfire Patch](X).
+31.) Download [CC Fishing Campfire Patch](https://www.nexusmods.com/skyrimspecialedition/mods/63418?tab=files&file_id=302078&nmm=1).
 
    - Install it under the name **[NoDelete] [04.014] CC Fishing Campfire Patch**
    
-31.) Download [Campfire - Pilgrim Patch](X).
+31.) Download [Campfire - Pilgrim Patch](https://www.nexusmods.com/skyrimspecialedition/mods/57888?tab=files&file_id=238857&nmm=1).
 
    - Install it under the name **[NoDelete] [04.015] Campfire - Pilgrim Patch**
 
-31.) Download [Lanterns Of Skyrim II - Campfire Addon](X).
+31.) Download [Lanterns Of Skyrim II - Campfire Addon](https://www.nexusmods.com/skyrimspecialedition/mods/30817?tab=files&file_id=275523&nmm=1). You may have downloaded this already...
 
    - Install it under the name **[NoDelete] [04.016] Lanterns Of Skyrim II - Campfire Addon**
    
-31.) Download [Campfire Chanterelle Tree Patch](X).
+31.) Download [Campfire Chanterelle Tree Patch](https://www.nexusmods.com/skyrimspecialedition/mods/51194?tab=files&file_id=209106&nmm=1).
 
    - Install it under the name **[NoDelete] [04.017] Campfire Chanterelle Tree Patch**
 
 ## OPTIONAL (FEEL FREE TO SKIP!)
 
-31.) Download [Campfire Spooning](X).
+31.) Download [Campfire Spooning](https://www.nexusmods.com/skyrimspecialedition/mods/21776?tab=files&file_id=75101&nmm=1).
 
    - Install it under the name **[NoDelete] [04.018] Campfire Spooning**
 
-31.) Download [Campfire - Immersive Snuggling](X).
+31.) Download [Campfire - Immersive Snuggling](https://www.nexusmods.com/skyrimspecialedition/mods/26975?tab=files&file_id=97433&nmm=1).
 
    - Install it under the name **[NoDelete] [04.019] Campfire - Immersive Snuggling**
 
