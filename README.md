@@ -94,47 +94,47 @@ Screenshots are available at the bottom of this page to compare as you go.
 
 ## SunHelm
 
-31.) Download [SunHelm Survival](X).
+31.) Download [SunHelm Survival](https://www.nexusmods.com/skyrimspecialedition/mods/39414?tab=files&file_id=311142&nmm=1). In the FOMOD...
 
    - Install it under the name **[NoDelete] [04.020] SunHelm Survival**
    
-31.) Download [SunHelm Survival - Settings Loader](X).
+31.) Download [SunHelm Survival - Settings Loader](https://www.nexusmods.com/skyrimspecialedition/mods/78535?tab=files&file_id=330873&nmm=1).
 
    - Install it under the name **[NoDelete] [04.021] SunHelm Survival - Settings Loader**
 
-31.) Download [SunHelm Survival - Compatibility Patches](X).
+31.) Download [SunHelm Survival - Compatibility Patches](https://www.nexusmods.com/skyrimspecialedition/mods/41335?tab=files&file_id=168682&nmm=1). In the FOMOD...
 
    - Install it under the name **[NoDelete] [04.022] SunHelm Survival - Compatibility Patches**
    
-31.) Download [Water-Borne Diseases for SunHelm](X).
+31.) Download [Water-Borne Diseases for SunHelm](https://www.nexusmods.com/skyrimspecialedition/mods/62572?tab=files&file_id=259778&nmm=1).
 
    - Install it under the name **[NoDelete] [04.023] Water-Borne Diseases for SunHelm**
 
-31.) Download [Water-Borne Diseases for SunHelm - Campfire Patch](X).
+31.) Download [Water-Borne Diseases for SunHelm - Campfire Patch](https://www.nexusmods.com/skyrimspecialedition/mods/69235?tab=files&file_id=289380&nmm=1).
 
    - Install it under the name **[NoDelete] [04.024] Water-Borne Diseases for SunHelm - Campfire Patch**
    
-31.) Download [SunHelm - Simple Weather Icons](X).
+31.) Download [SunHelm - Simple Weather Icons](https://www.nexusmods.com/skyrimspecialedition/mods/75863?tab=files&file_id=318218&nmm=1).
 
    - Install it under the name **[NoDelete] [04.025] SunHelm - Simple Weather Icons**
 
-31.) Download [SunHelm - Magical Heat Sources](X).
+31.) Download [SunHelm - Magical Heat Sources](https://www.nexusmods.com/skyrimspecialedition/mods/67864?tab=files&file_id=282870&nmm=1).
 
    - Install it under the name **[NoDelete] [04.026] SunHelm - Magical Heat Sources**
    
-31.) Download [More Wells for SunHelm - Vanilla](X).
+31.) Download [More Wells for SunHelm - Vanilla](https://www.nexusmods.com/skyrimspecialedition/mods/62447?tab=files&file_id=258959&nmm=1).
 
    - Install it under the name **[NoDelete] [04.027] More Wells for SunHelm - Vanilla**
 
-31.) Download [SunHelm - Creation Club Farming Patch](X).
+31.) Download [SunHelm - Creation Club Farming Patch](https://www.nexusmods.com/skyrimspecialedition/mods/62480?tab=files&file_id=259142&nmm=1).
 
    - Install it under the name **[NoDelete] [04.028] SunHelm - Creation Club Farming Patch**
    
-31.) Download [Gray Cowl of Nocturnal - SunHelm Patch](X).
+31.) Download [Gray Cowl of Nocturnal - SunHelm Patch](https://www.nexusmods.com/skyrimspecialedition/mods/65623?tab=files&file_id=300063&nmm=1).
 
    - Install it under the name **[NoDelete] [04.029] Gray Cowl of Nocturnal - SunHelm Patch**
 
-31.) Download [Midwood Isle - SunHelm Bucket - Patch](X).
+31.) Download [Midwood Isle - SunHelm Bucket - Patch](https://www.nexusmods.com/skyrimspecialedition/mods/64322?tab=files&file_id=267231&nmm=1).
 
    - Install it under the name **[NoDelete] [04.030] Midwood Isle - SunHelm Bucket - Patch**
 
