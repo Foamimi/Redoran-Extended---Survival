@@ -16,7 +16,17 @@ All the plugins going forward will be at the very bottom, **BELOW all of the Red
 
 Screenshots are available at the bottom of this page to compare as you go.
 
-## General Overhauls
+## Campfire
+
+31.) Download [X](X).
+
+   - Install it under the name **X**
+   
+31.) Download [X](X).
+
+   - Install it under the name **X**
+
+## SunHelm
 
 31.) Download [X](X).
 
@@ -54,7 +64,7 @@ Name it **X**, and place it directly AFTER X.
 
    - **Currently works with version 1.4.0+ of Redoran.**
    - **Currently works with [Redoran-Extended - NPC Overhaul Addon](https://github.com/Foamimi/Redoran-Extended---NPC-Overhaul/blob/main/README.md).**
-   - **Currently needs a patch for [Redoran-Extended - NPC Dialogue Addon](https://github.com/Foamimi/Redoran-Extended---NPC-Dialogue/blob/main/README.md). You can find a patch here: [ [DOWNLOAD](X) ] ("View raw" button). 
+   - **Currently needs a patch for [Redoran-Extended - NPC Dialogue Addon](https://github.com/Foamimi/Redoran-Extended---NPC-Dialogue/blob/main/README.md). You can find a patch here: [ [DOWNLOAD](X) ] ("View raw" button).**
 
 # Changelog 
 
