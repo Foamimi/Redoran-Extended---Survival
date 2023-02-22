@@ -6,7 +6,7 @@
 
 Hello! This addon will integrate various mods designed to expand survival themed gameplay into the world of Redoran-ified Skyrim. This will be a **manual process** with various steps involving downloading, rearranging, etc. A provided megapatch will be available at the end of the guide.
 
-A **NEW SAVE is required**.
+You can install this on an **EXISTING SAVE**.
 
 # Installation
 
