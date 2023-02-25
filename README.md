@@ -157,6 +157,7 @@ Name it **X**, and place it directly AFTER X.
    - **Currently works with version 1.4.0+ of Redoran.**
    - **Currently works with [Redoran-Extended - NPC Overhaul Addon](https://github.com/Foamimi/Redoran-Extended---NPC-Overhaul/blob/main/README.md).**
    - **Currently needs a patch for [Redoran-Extended - NPC Dialogue Addon](https://github.com/Foamimi/Redoran-Extended---NPC-Dialogue/blob/main/README.md). You can find a patch here: [ [DOWNLOAD](X) ] ("View raw" button).**
+   - If you have multiple addons installed, see this pic for how the load order should go ---> [ X ]
 
 # Changelog 
 
