@@ -52,7 +52,7 @@ Screenshots are available at the bottom of this page to compare as you go.
 
    - Install it under the name **[NoDelete] [04.008] Campfire - Stamina Penalty for Backpacks**
 
-9.) Download [ElSopa - Campfire HD SE](https://www.nexusmods.com/skyrimspecialedition/mods/24511?tab=files&file_id=86443&nmm=1). In the FOMOD...
+9.) Download [ElSopa - Campfire HD SE](https://www.nexusmods.com/skyrimspecialedition/mods/24511?tab=files&file_id=86443&nmm=1).
 
    - Install it under the name **[NoDelete] [04.009] ElSopa - Campfire HD**
    
@@ -60,7 +60,7 @@ Screenshots are available at the bottom of this page to compare as you go.
 
    - Install it under the name **[NoDelete] [04.010] Realistic HD Woodcutter's Axe Remastered - Campfire Patch**
 
-11.) Download [Campfire - Backpack HD](https://www.nexusmods.com/skyrimspecialedition/mods/34516?tab=files&file_id=133862&nmm=1). In the FOMOD...
+11.) Download [Campfire - Backpack HD](https://www.nexusmods.com/skyrimspecialedition/mods/34516?tab=files&file_id=133862&nmm=1). In the FOMOD, tick both Backpack and Bedroll options. Select Waterskin + Amulet, then press Next. Select 2k, 2k, 2k, then press Install.
 
    - Install it under the name **[NoDelete] [04.011] Campfire - Backpack HD**
    
@@ -76,7 +76,17 @@ Screenshots are available at the bottom of this page to compare as you go.
 
    - Install it under the name **[NoDelete] [04.014] Campfire - Pilgrim Patch**
 
-15.) Download [Lanterns Of Skyrim II - Campfire Addon](https://www.nexusmods.com/skyrimspecialedition/mods/30817?tab=files&file_id=275523&nmm=1). You may have downloaded this already...
+15.) Download [Lanterns Of Skyrim II - Campfire Addon](https://www.nexusmods.com/skyrimspecialedition/mods/30817?tab=files&file_id=275523&nmm=1). If you did not delete your downloads folder for Redoran, you may have this installed already. Select No to the MO2 pop-up if you receive one. On the right side of MO2 in the Downloads tab, type in "Lanterns Of Skyrim" and one file should appear. Double-click it to begin. When the FOMOD pops up, go to the bottom left corner and select Manual.
+
+![Image 2](https://i.imgur.com/vpJxSHY.png)
+
+Right-click LoS II - Campfire Addon, and select Set as data directory. 
+
+![Image 2](https://i.imgur.com/jaFP34j.png)
+
+You should then be at a page like below. Rename the file to the name below and press Ok. Then you're done!
+
+![Image 2](https://i.imgur.com/z2NyPWY.png)
 
    - Install it under the name **[NoDelete] [04.015] Lanterns Of Skyrim II - Campfire Addon**
    
