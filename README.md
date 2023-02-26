@@ -96,7 +96,7 @@ You should then be at a page like below. Rename the file to the name below and p
 
 ## SunHelm
 
-17.) Download [SunHelm Survival](https://www.nexusmods.com/skyrimspecialedition/mods/39414?tab=files&file_id=311142&nmm=1). In the FOMOD...
+17.) Download [SunHelm Survival](https://www.nexusmods.com/skyrimspecialedition/mods/39414?tab=files&file_id=311142&nmm=1). In the FOMOD, select Next, tick the Campfire Skill Tree and Diseases boxes, select SkyrimSE, then press Next. Only tick the Wyrmstooth Region Patch, then press Install.
 
    - Install it under the name **[NoDelete] [04.017] SunHelm Survival**
    
@@ -104,7 +104,7 @@ You should then be at a page like below. Rename the file to the name below and p
 
    - Install it under the name **[NoDelete] [04.018] SunHelm Survival - Settings Loader**
 
-19.) Download [SunHelm Survival - Compatibility Patches](https://www.nexusmods.com/skyrimspecialedition/mods/41335?tab=files&file_id=168682&nmm=1). In the FOMOD...
+19.) Download [SunHelm Survival - Compatibility Patches](https://www.nexusmods.com/skyrimspecialedition/mods/41335?tab=files&file_id=168682&nmm=1). In the FOMOD, everything will be ticked automatically, however, we will want to untick the Wyrmstooth patch as the one we installed previously is more up-to-date. Once you have done so select Next, don't tick anything on the last page, then press Install. 
 
    - Install it under the name **[NoDelete] [04.019] SunHelm Survival - Compatibility Patches**
    
@@ -138,7 +138,7 @@ You should then be at a page like below. Rename the file to the name below and p
 
 27.) Download [Midwood Isle - SunHelm Bucket - Patch](https://www.nexusmods.com/skyrimspecialedition/mods/64322?tab=files&file_id=267231&nmm=1).
 
-   - Install it under the name **[NoDelete] [04.027] Midwood Isle - SunHelm Bucket - Patch**
+   - Install it under the name **[NoDelete] [04.027] Midwood Isle - SunHelm Bucket Patch**
 
 ## OPTIONAL (FEEL FREE TO SKIP!)
 
@@ -156,11 +156,11 @@ You should then be at a page like below. Rename the file to the name below and p
 
 Name it **X**, and place it directly AFTER X.
 
-   -  Then here's how the Mod Name tab on the **left side of MO2** should look:
+   -  Then here's how the Mod Name tab on the **left side of MO2** should look (ignore the two optional mods if you skipped that part):
 
 ![Image 8](X)
 
-   - Then here's how the Plugin tab on the **right side of MO2** should look:
+   - Then here's how the Plugin tab on the **right side of MO2** should look (ignore the two optional mods if you skipped that part):
 
 ![Image 9](X)
 
