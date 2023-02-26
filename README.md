@@ -172,7 +172,7 @@ Name it **X**, and place it directly AFTER X.
 
    - **Currently works with [Redoran-Extended - NPC Overhaul Addon](https://github.com/Foamimi/Redoran-Extended---NPC-Overhaul/blob/main/README.md).**
    - **Currently works with [Redoran-Extended - NPC Dialogue Addon](https://github.com/Foamimi/Redoran-Extended---NPC-Dialogue/blob/main/README.md).**
-   - **Currently needs a patch to work with [Redoran-Extended - Textures Addon](https://github.com/Foamimi/Redoran-Extended---Textures/blob/master/README.md).** Download [HPP - My Fixes by Xtudo - AIO Campfire](https://www.nexusmods.com/skyrimspecialedition/mods/63425?tab=files&file_id=333337&nmm=1) and name it [NoDelete] [04.031] [HPP - My Fixes by Xtudo - AIO Campfire]. Place it after [NoDelete] [04.030] Redoran Extended - Survival Megapatch on the left side of MO2, and after Redoran Extended - Survival Addon Megapatch.esp on the right side of MO2.
+   - **Currently needs a patch to work with [Redoran-Extended - Textures Addon](https://github.com/Foamimi/Redoran-Extended---Textures/blob/master/README.md).** Download [HPP - My Fixes by Xtudo - AIO Campfire](https://www.nexusmods.com/skyrimspecialedition/mods/63425?tab=files&file_id=333337&nmm=1) and name it [NoDelete] [04.031] [HPP - My Fixes by Xtudo - AIO Campfire]. Place it after [NoDelete] [04.030] Redoran Extended - Survival Megapatch on the left side of MO2, and after Redoran Extended - Survival Megapatch.esp on the right side of MO2.
 
 Left side of MO2:
 
