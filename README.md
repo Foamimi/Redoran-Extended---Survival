@@ -1,6 +1,6 @@
 # Redoran-Extended---Survival Addon
 
-![Image 0](https://i.imgur.com/eVjTjPP.png)
+![Image 0](https://i.imgur.com/JEG7wqm.png)
 
 # Introduction
 
