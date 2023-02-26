@@ -152,17 +152,19 @@ You should then be at a page like below. Rename the file to the name below and p
 
 # Last Steps
 
-### Snag the megapatch from here: [ [DOWNLOAD](X) ] ("View raw" button)
+### Snag the megapatch from here: [ [DOWNLOAD](https://github.com/Foamimi/Redoran-Extended---Survival/blob/main/Redoran%20Extended%20-%20Survival%20Megapatch.7z) ] ("View raw" button)
 
 Name it **X**, and place it directly AFTER X.
 
    -  Then here's how the Mod Name tab on the **left side of MO2** should look (ignore the two optional mods if you skipped that part):
 
-![Image 5](X)
+![Image 5](https://i.imgur.com/m7nBJw1.png)
 
    - Then here's how the Plugin tab on the **right side of MO2** should look (ignore the two optional mods if you skipped that part):
 
-![Image 6](X)
+![Image 6](https://i.imgur.com/y4fx1SZ.png)
+
+![Image 7](https://i.imgur.com/5wZf9ld.png)
 
 ### Then you are SET! Thanks for sticking with it the entire process, enjoy your game!
 
@@ -171,6 +173,14 @@ Name it **X**, and place it directly AFTER X.
    - **Currently works with [Redoran-Extended - NPC Overhaul Addon](https://github.com/Foamimi/Redoran-Extended---NPC-Overhaul/blob/main/README.md).**
    - **Currently works with [Redoran-Extended - NPC Dialogue Addon](https://github.com/Foamimi/Redoran-Extended---NPC-Dialogue/blob/main/README.md).**
    - **Currently needs a patch to work with [Redoran-Extended - Textures Addon](https://github.com/Foamimi/Redoran-Extended---Textures/blob/master/README.md).** Download [HPP - My Fixes by Xtudo - AIO Campfire](https://www.nexusmods.com/skyrimspecialedition/mods/63425?tab=files&file_id=333337&nmm=1) and name it [NoDelete] [04.031] [HPP - My Fixes by Xtudo - AIO Campfire]. Place it after [NoDelete] [04.030] Redoran Extended - Survival Megapatch on the left side of MO2, and after Redoran Extended - Survival Addon Megapatch.esp on the right side of MO2.
+
+Left side of MO2:
+
+![Image 8](https://i.imgur.com/Twrm4Nu.png)
+
+Right side of MO2:
+
+![Image 9](https://i.imgur.com/VA1Kvfc.png)
 
 ### If using multiple addons, please see the image below for load order guidance:
 
