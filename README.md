@@ -18,7 +18,9 @@ Screenshots are available at the bottom of this page to compare as you go.
 
 ## Campfire
 
-1.) Download [Campfire - Complete Camping System (Supports Skyrim VR)](https://www.nexusmods.com/skyrimspecialedition/mods/667?tab=files&file_id=65049&nmm=1). -write instructions to hide papyrus file so papyrusUTIL wins-
+1.) Download [Campfire - Complete Camping System (Supports Skyrim VR)](https://www.nexusmods.com/skyrimspecialedition/mods/667?tab=files&file_id=65049&nmm=1). Once you've installed Campfire, double-click the mod on the left side of MO2. Under the Filetree tab, extended the SKSE folder, then the Plugins folder. Right-click PapyrusUtil.dll and select Hide.
+
+![Image 1](https://i.imgur.com/dKe7v9g.png)
 
    - Install it under the name **[NoDelete] [04.001] Campfire**
    
@@ -26,7 +28,7 @@ Screenshots are available at the bottom of this page to compare as you go.
 
    - Install it under the name **[NoDelete] [04.002] Campfire - Unofficial Update**
 
-3.) Download [SkyUI Item Card Fixes for Campfire](https://www.nexusmods.com/skyrimspecialedition/mods/29116?tab=files&file_id=108005&nmm=1). In the FOMOD...
+3.) Download [SkyUI Item Card Fixes for Campfire](https://www.nexusmods.com/skyrimspecialedition/mods/29116?tab=files&file_id=108005&nmm=1). In the FOMOD, select Sovngarde ItemCard Fixes within the Without Frostfall section, then select None in the bottom section, then press Install.
 
    - Install it under the name **[NoDelete] [04.003] SkyUI Item Card Fixes for Campfire**
    
@@ -154,12 +156,19 @@ Name it **X**, and place it directly AFTER X.
 
 ### Then you are SET! Thanks for sticking with it the entire process, enjoy your game!
 
-   - **Currently works with version 1.4.0+ of Redoran.**
+# Addon Compatibility
+
    - **Currently works with [Redoran-Extended - NPC Overhaul Addon](https://github.com/Foamimi/Redoran-Extended---NPC-Overhaul/blob/main/README.md).**
-   - **Currently needs a patch for [Redoran-Extended - NPC Dialogue Addon](https://github.com/Foamimi/Redoran-Extended---NPC-Dialogue/blob/main/README.md). You can find a patch here: [ [DOWNLOAD](X) ] ("View raw" button).**
-   - If you have multiple addons installed, see this pic for how the load order should go ---> [ X ]
+   - **Currently works with [Redoran-Extended - NPC Dialogue Addon](https://github.com/Foamimi/Redoran-Extended---NPC-Dialogue/blob/main/README.md).**
+   - **Currently needs a patch to work with [Redoran-Extended - Textures Addon](https://github.com/Foamimi/Redoran-Extended---Textures/blob/master/README.md).** Download [HPP - My Fixes by Xtudo - AIO Campfire](https://www.nexusmods.com/skyrimspecialedition/mods/63425?tab=files&file_id=333337&nmm=1) and name it [NoDelete] [04.031] [HPP - My Fixes by Xtudo - AIO Campfire]. Place it after [NoDelete] [04.030] Redoran Extended - Survival Addon Megapatch on the left side of MO2, and after Redoran Extended - Survival Addon Megapatch.esp on the right side of MO2.
+
+### If using multiple addons, please see the image below for load order guidance:
+
+![Image Addon Load Order](https://i.imgur.com/QA9N71C.png)
 
 # Changelog 
+
+**Currently works with version 1.4.2+ of Redoran.**
 
 **IMPORTANT** - If updating Redoran (like from v.1.0.1 to 1.0.2 for example) your load order may become a bit funky on the right side of MO2. Luckily we numbered everything while installing, so the left side of MO2 should still be in tact, but to get everything back in position for the right side, I'd suggest disabling the entire Survival addon, then re-enabling everything again one by one. This takes a hot second, but I find this method to be the fastest (for me anyway!).
 
