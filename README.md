@@ -176,13 +176,13 @@ Name it **[NoDelete] [04.033] Redoran Extended - Survival Megapatch**, and place
 
    -  Then here's how the Mod Name tab on the **left side of MO2** should look (ignore the optional mods if you skipped that part):
 
-![Image 5](https://i.imgur.com/m7nBJw1.png)
+![Image 5](https://i.imgur.com/TdAAwTe.png)
 
    - Then here's how the Plugin tab on the **right side of MO2** should look (ignore the optional mods if you skipped that part):
 
 ![Image 6](https://i.imgur.com/y4fx1SZ.png)
 
-![Image 7](https://i.imgur.com/5wZf9ld.png)
+![Image 7](https://i.imgur.com/krqKC9J.png)
 
 ### Then you are SET! Thanks for sticking with it the entire process, enjoy your game!
 
