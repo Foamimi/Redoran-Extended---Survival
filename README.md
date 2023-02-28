@@ -186,7 +186,7 @@ Left side of MO2 (ignore the incorrect numbering):
 
 ![Image 8](https://i.imgur.com/Twrm4Nu.png)
 
-Right side of MO2 (ignore the incorrect numbering):
+Right side of MO2:
 
 ![Image 9](https://i.imgur.com/VA1Kvfc.png)
 
