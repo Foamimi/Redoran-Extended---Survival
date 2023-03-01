@@ -208,6 +208,9 @@ Right side of MO2:
 
 **IMPORTANT** - If updating Redoran (like from v.1.0.1 to 1.0.2 for example) your load order may become a bit funky on the right side of MO2. Luckily we numbered everything while installing, so the left side of MO2 should still be in tact, but to get everything back in position for the right side, I'd suggest disabling the entire Survival addon, then re-enabling everything again one by one. This takes a hot second, but I find this method to be the fastest (for me anyway!).
 
+Redoran v1.4.3
+   - No changes needed
+
 Redoran v1.4.2
    - Moved SkyUI Item Card Fixes for Campfire to step #23 and renamed to SkyUI Item Card Fixes for SunHelm
    - Added Igniting Animation for Campfire
