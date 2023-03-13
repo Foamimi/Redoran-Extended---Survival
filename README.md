@@ -123,58 +123,55 @@ You should then be at a page like below. Rename the file to the name below and p
 22.) Download [SunHelm - Magical Heat Sources](https://www.nexusmods.com/skyrimspecialedition/mods/67864?tab=files&file_id=282870&nmm=1).
 
    - Install it under the name **[NoDelete] [04.022] SunHelm - Magical Heat Sources**
-
-23.) Download [SkyUI Item Card Fixes for SunHelm](https://www.nexusmods.com/skyrimspecialedition/mods/29116?tab=files&file_id=108005&nmm=1). In the FOMOD, select Sovngarde ItemCard Fixes within the Without Frostfall section, then select None in the bottom section, then press Install.
-
-   - Install it under the name **[NoDelete] [04.023] SkyUI Item Card Fixes for SunHelm**
    
-24.) Download [More Wells for SunHelm - Vanilla](https://www.nexusmods.com/skyrimspecialedition/mods/62447?tab=files&file_id=258959&nmm=1).
+23.) Download [More Wells for SunHelm - Vanilla](https://www.nexusmods.com/skyrimspecialedition/mods/62447?tab=files&file_id=258959&nmm=1).
 
-   - Install it under the name **[NoDelete] [04.024] More Wells for SunHelm - Vanilla**
+   - Install it under the name **[NoDelete] [04.023] More Wells for SunHelm - Vanilla**
 
-25.) Download [SunHelm - Creation Club Farming Patch](https://www.nexusmods.com/skyrimspecialedition/mods/62480?tab=files&file_id=259142&nmm=1).
+24.) Download [SunHelm - Creation Club Farming Patch](https://www.nexusmods.com/skyrimspecialedition/mods/62480?tab=files&file_id=259142&nmm=1).
 
-   - Install it under the name **[NoDelete] [04.025] SunHelm - Creation Club Farming Patch**
+   - Install it under the name **[NoDelete] [04.024] SunHelm - Creation Club Farming Patch**
    
-26.) Download [Gray Cowl of Nocturnal - SunHelm Patch](https://www.nexusmods.com/skyrimspecialedition/mods/65623?tab=files&file_id=300063&nmm=1).
+25.) Download [Gray Cowl of Nocturnal - SunHelm Patch](https://www.nexusmods.com/skyrimspecialedition/mods/65623?tab=files&file_id=300063&nmm=1).
 
-   - Install it under the name **[NoDelete] [04.026] Gray Cowl of Nocturnal - SunHelm Patch**
+   - Install it under the name **[NoDelete] [04.025] Gray Cowl of Nocturnal - SunHelm Patch**
 
-27.) Download [Midwood Isle - SunHelm Bucket - Patch](https://www.nexusmods.com/skyrimspecialedition/mods/64322?tab=files&file_id=267231&nmm=1).
+26.) Download [Midwood Isle - SunHelm Bucket - Patch](https://www.nexusmods.com/skyrimspecialedition/mods/64322?tab=files&file_id=267231&nmm=1).
 
-   - Install it under the name **[NoDelete] [04.027] Midwood Isle - SunHelm Bucket Patch**
+   - Install it under the name **[NoDelete] [04.026] Midwood Isle - SunHelm Bucket Patch**
 
-28.) Download [Igniting Animation for Campfire](https://www.nexusmods.com/skyrimspecialedition/mods/83142?tab=files&file_id=353695&nmm=1).
+27.) Download [Igniting Animation for Campfire](https://www.nexusmods.com/skyrimspecialedition/mods/83142?tab=files&file_id=353695&nmm=1).
 
-   - Install it under the name **[NoDelete] [04.028] Igniting Animation for Campfire - DAR**
+   - Install it under the name **[NoDelete] [04.027] Igniting Animation for Campfire - DAR**
    - **IMPORTANT** - No need to re-run Nemesis as this is a DAR mod and it works straight out of the box!
 
-29.) Download [Patch for Sunhelm Survival and CCARA DAR](https://www.nexusmods.com/skyrimspecialedition/mods/62133?tab=files&file_id=258265&nmm=1).
+28.) Download [Patch for Sunhelm Survival and CCARA DAR](https://www.nexusmods.com/skyrimspecialedition/mods/62133?tab=files&file_id=258265&nmm=1).
 
-   - Install it under the name **[NoDelete] [04.029] Patch for Sunhelm Survival and CCARA DAR**
+   - Install it under the name **[NoDelete] [04.028] Patch for Sunhelm Survival and CCARA DAR**
    - **IMPORTANT** - No need to re-run Nemesis as this is a DAR mod and it works straight out of the box!
 
 ## OPTIONAL (FEEL FREE TO SKIP!)
 
-30.) Download [Campfire Spooning](https://www.nexusmods.com/skyrimspecialedition/mods/21776?tab=files&file_id=75101&nmm=1).
+29.) Download [Campfire Spooning](https://www.nexusmods.com/skyrimspecialedition/mods/21776?tab=files&file_id=75101&nmm=1).
 
-   - Install it under the name **[NoDelete] [04.030] Campfire Spooning**
+   - Install it under the name **[NoDelete] [04.029] Campfire Spooning**
 
-31.) Download [Campfire - Immersive Snuggling](https://www.nexusmods.com/skyrimspecialedition/mods/26975?tab=files&file_id=97433&nmm=1).
+30.) Download [Campfire - Immersive Snuggling](https://www.nexusmods.com/skyrimspecialedition/mods/26975?tab=files&file_id=97433&nmm=1).
 
-   - Install it under the name **[NoDelete] [04.031] Campfire - Immersive Snuggling**
+   - Install it under the name **[NoDelete] [04.030] Campfire - Immersive Snuggling**
 
-32.) Download [SunHelm - Ultrawide Patch](https://www.nexusmods.com/skyrimspecialedition/mods/85961?tab=files&file_id=364071&nmm=1).
+31.) Download [SunHelm - Ultrawide Patch](https://www.nexusmods.com/skyrimspecialedition/mods/85961?tab=files&file_id=364071&nmm=1).
 
-   - Install it under the name **[NoDelete] [04.032] SunHelm - Ultrawide Patch**
+   - Install it under the name **[NoDelete] [04.031] SunHelm - Ultrawide Patch**
 
 # Last Steps
 
 ### Snag the megapatch from here: [ [DOWNLOAD](https://github.com/Foamimi/Redoran-Extended---Survival/blob/main/Redoran%20Extended%20-%20Survival%20Megapatch.7z) ] ("View raw" button)
 
-Name it **[NoDelete] [04.033] Redoran Extended - Survival Megapatch**, and place it directly AFTER [NoDelete] [04.032] SunHelm - Ultrawide Patch. If you did not install the optional mods, then place it directly AFTER [NoDelete] [04.029] Patch for Sunhelm Survival and CCARA DAR.
+Name it **[NoDelete] [04.032] Redoran Extended - Survival Megapatch**, and place it directly AFTER [NoDelete] [04.031] SunHelm - Ultrawide Patch. If you did not install the optional mods, then place it directly AFTER [NoDelete] [04.028] Patch for Sunhelm Survival and CCARA DAR.
 
    -  Then here's how the Mod Name tab on the **left side of MO2** should look (ignore the optional mods if you skipped that part):
+   -  **NOTE** - I took these pictures before I removed SkyUI Item Card Fixes for SunHelm, so please ignore that mod.
 
 ![Image 5](https://i.imgur.com/TdAAwTe.png)
 
@@ -209,7 +206,7 @@ Right side of MO2:
 **IMPORTANT** - If updating Redoran (like from v.1.0.1 to 1.0.2 for example) your load order may become a bit funky on the right side of MO2. Luckily we numbered everything while installing, so the left side of MO2 should still be in tact, but to get everything back in position for the right side, I'd suggest disabling the entire Survival addon, then re-enabling everything again one by one. This takes a hot second, but I find this method to be the fastest (for me anyway!).
 
 Redoran v1.5.1
-   - No changes needed
+   - Removed SkyUI Item Card Fixes for SunHelm
 
 Redoran v1.5.0
    - No changes needed
